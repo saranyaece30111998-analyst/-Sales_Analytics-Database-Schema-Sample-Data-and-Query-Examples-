@@ -162,5 +162,3 @@ Would you like me to also prepare a **sample ER diagram screenshot placeholder s
 
 ---
 
-✅ This README makes your project **professional and portfolio-ready**.  
-Would you like me to also create a **visual ER diagram (Entity-Relationship)** for this schema so you can include it in your documentation?
