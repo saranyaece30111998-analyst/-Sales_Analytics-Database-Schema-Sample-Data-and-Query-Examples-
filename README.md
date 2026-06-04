@@ -2,7 +2,7 @@
 
 ---
 
-# 📊 Sales_Analytics: Database Schema, Sample Data & Query Examples
+# 📊 Sales_Analytics: Database Schema
 
 ## 1. Overview
 This project creates a **Sales Analytics Database** to manage customers, products, salespersons, and orders.  
