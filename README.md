@@ -125,11 +125,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 
 
-**Q4. Show product name, price, and (Price × 2) as DoublePrice.**  
-```sql
-SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
-```
-📸 *Screenshot:* `screenshots/double_price.png`
+
 
 **Q5. Show product name and price after adding a 10% tax.**  
 ```sql
