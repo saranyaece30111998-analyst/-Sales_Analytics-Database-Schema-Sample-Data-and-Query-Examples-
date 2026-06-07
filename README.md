@@ -124,13 +124,6 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 
 
-
-### 6. GROUP BY & HAVING
-*(Customer count per city, gender grouping, etc.)*  
-📸 Example: `screenshots/customers_per_city.png`
-
----
-
 ### 7. JOINs
 *(Orders with customer names, LEFT JOIN, RIGHT JOIN, etc.)*  
 📸 Example: `screenshots/orders_with_customers.png`
