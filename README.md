@@ -123,20 +123,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ---
 
 
-
----
-
-## 🗂 Database Schema
-- **Customers**: CustomerID, CustomerName, City, Gender, Email  
-- **Products**: ProductID, Name, Category, Price  
-- **Orders**: OrderID, CustomerID, ProductID, Quantity, OrderDate, SalespersonID  
-- **Salespersons**: SalespersonID, Name, Region, Target  
-
----
-
-## ✅ Queries with Screenshots
-
-### 1. SELECT + DISTINCT
+ 1. SELECT + DISTINCT
 **Q1. List all distinct cities where customers live.**  
 ```sql
 SELECT DISTINCT City FROM Customers;
