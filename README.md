@@ -129,13 +129,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 
 
----
 
-### 4. ORDER BY & LIMIT
-*(Top 3 products, sorted customers, etc.)*  
-📸 Example: `screenshots/top3_products.png`
 
----
+
 
 ### 5. Aggregate Functions
 **Q8. Find the total number of customers.**  
