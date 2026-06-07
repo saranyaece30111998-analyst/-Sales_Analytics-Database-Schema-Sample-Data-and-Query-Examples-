@@ -125,23 +125,6 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 
 
-
-
-
-
-
-
-
-
-### 5. Aggregate Functions
-**Q8. Find the total number of customers.**  
-```sql
-SELECT COUNT(*) AS TotalCustomers FROM Customers;
-```
-📸 *Screenshot:* `screenshots/total_customers.png`
-
----
-
 ### 6. GROUP BY & HAVING
 *(Customer count per city, gender grouping, etc.)*  
 📸 Example: `screenshots/customers_per_city.png`
