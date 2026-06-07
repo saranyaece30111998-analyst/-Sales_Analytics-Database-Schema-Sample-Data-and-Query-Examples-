@@ -1,11 +1,5 @@
 
 
-
-
-# 📊 Understood — you want a **full README.md** that contains **all your SQL questions, each with its query code block, plus a placeholder for screenshots**. This way, you can later paste in the actual screenshots of query results from your database.  
-
-Here’s the complete README draft:
-
 ---
 
 # 📊 Sales_Analytics SQL Query Bank
