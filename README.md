@@ -127,11 +127,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 
 
-**Q5. Show product name and price after adding a 10% tax.**  
-```sql
-SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
-```
-📸 *Screenshot:* `screenshots/price_with_tax.pn
+
 
 ---
 
