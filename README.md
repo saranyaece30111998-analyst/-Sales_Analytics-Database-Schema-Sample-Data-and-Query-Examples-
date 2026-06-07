@@ -135,15 +135,7 @@ SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
 ```sql
 SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ```
-📸 *Screenshot:* `screenshots/price_with_tax.png`
-
----
-
-### 3. WHERE Clause with Operators
-*(Hyderabad customers, products > 10,000, orders after 2025-01-12, etc.)*  
-Each query has its own screenshot placeholder, e.g.:  
-📸 `screenshots/customers_hyderabad.png`  
-📸 `screenshots/products_above_10000.png`  
+📸 *Screenshot:* `screenshots/price_with_tax.pn
 
 ---
 
