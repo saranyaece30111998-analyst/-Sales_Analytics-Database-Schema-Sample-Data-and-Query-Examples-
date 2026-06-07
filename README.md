@@ -144,11 +144,7 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ### 10. Date & Time Functions
 *(Orders in January 2025, week-wise totals, day names, etc.)*  
-📸 Example: `screenshots/orders_january2025.png`
 
----
-
-### 11. Subqueries (Single, Multi, Correlated)
 
 
 
