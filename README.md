@@ -54,6 +54,7 @@ SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
 ```sql
 SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ```
+<img width="776" height="505" alt="Screenshot 2026-06-06 230545" src="https://github.com/user-attachments/assets/d66340e8-8a9f-4d21-a783-33dbe5729257" />
 
 
 ---
