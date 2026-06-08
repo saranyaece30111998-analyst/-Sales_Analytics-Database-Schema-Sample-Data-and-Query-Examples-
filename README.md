@@ -24,6 +24,7 @@ It covers **fundamental to advanced SQL concepts** with placeholders for screens
 ```sql
 SELECT DISTINCT City FROM Customers;
 ```
+<img width="512" height="486" alt="Screenshot 2026-06-06 230214" src="https://github.com/user-attachments/assets/67642ca8-98a6-402a-a4a4-d95d219e79d9" />
 
 
 2. Retrieve distinct product categories from Products.**  
