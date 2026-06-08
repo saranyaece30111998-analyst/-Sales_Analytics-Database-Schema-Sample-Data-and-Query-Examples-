@@ -68,8 +68,9 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 - <img width="667" height="516" alt="Screenshot 2026-06-06 230726" src="https://github.com/user-attachments/assets/4371e577-8828-4cb8-8590-4ad19e25e99d" />
 ** 9. Find products whose price is NOT equal to 1500.
 - <img width="452" height="437" alt="Screenshot 2026-06-06 230810" src="https://github.com/user-attachments/assets/b5fe2c93-9644-4cc6-ad55-307d2289fafa" />
+** 10. Find customers whose Email is NULL.
+- <img width="576" height="245" alt="Screenshot 2026-06-06 230848" src="https://github.com/user-attachments/assets/6555ead6-d59b-4946-9935-4ef30767f5bd" />
 
----
 
 ###  ORDER BY & LIMIT
 
