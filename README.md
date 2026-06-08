@@ -115,6 +115,8 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ```sql
 SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ```
+22. Find the total number of customers in the Customers table.
+    <img width="842" height="282" alt="Screenshot 2026-06-06 231601" src="https://github.com/user-attachments/assets/d150516e-3496-4921-a8a5-1a93cbe2ffad" />
 
 ---
 
