@@ -47,6 +47,7 @@ SELECT CustomerName AS Customer_Name, Email AS Email_ID FROM Customers;
 ```sql
 SELECT ProductName, Price, Price*2 AS DoublePrice FROM Products;
 ```
+<img width="841" height="516" alt="Screenshot 2026-06-06 230456" src="https://github.com/user-attachments/assets/8ded9de5-880b-485a-bdd9-20a6bfc31c64" />
 
 
 ** 5. Show product name and price after adding a 10% tax.**  
