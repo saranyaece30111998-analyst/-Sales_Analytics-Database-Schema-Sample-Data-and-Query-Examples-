@@ -292,6 +292,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="1047" height="497" alt="Screenshot 2026-06-07 001950" src="https://github.com/user-attachments/assets/3d36ec20-2d5d-4a5e-8f54-443961afc382" />
 
 26.	Find customers whose total orders are greater than the average number of orders placed by customers.
+- <img width="1102" height="513" alt="Screenshot 2026-06-07 002122" src="https://github.com/user-attachments/assets/4efeac21-024e-4c0b-b823-60d8215c4f17" />
+
 
 ________________________________________
 
