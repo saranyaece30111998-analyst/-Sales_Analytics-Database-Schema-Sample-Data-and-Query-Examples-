@@ -238,9 +238,14 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 57.	Find products belonging to the same category as 'Laptop'.
 - <img width="642" height="553" alt="Screenshot 2026-06-07 000111" src="https://github.com/user-attachments/assets/a539468c-cc4e-412e-b13e-efeb96e1aa0d" />
 
-59.	Find customers who have placed more orders than the customer with CustomerID = 5.
+58.	Find customers who have placed more orders than the customer with CustomerID = 5.
+    <img width="933" height="545" alt="Screenshot 2026-06-07 000219" src="https://github.com/user-attachments/assets/e1c4fc02-1f95-47ee-93da-09f6ed14df19" />
+
+
 60.	Find products that are priced higher than the product with ProductID = 3.
+
 61.	Find customers who placed an order on the same date as OrderID = 1.
+
 62.	Find the salesperson whose target amount is higher than the average target.
 ________________________________________
 
