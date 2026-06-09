@@ -129,6 +129,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="722" height="506" alt="Screenshot 2026-06-06 231741" src="https://github.com/user-attachments/assets/0a82cb96-4967-4bb3-b237-8cecc17df9f2" />
 ** 26.Show only those cities where customer count is greater than 2.
 - <img width="802" height="355" alt="Screenshot 2026-06-06 231846" src="https://github.com/user-attachments/assets/a6c3ac95-6615-46c5-bde2-c41f7858a93d" />
+** 27.Total orders per customer, but show only customers with more than 3 orders.
+- <img width="902" height="316" alt="Screenshot 2026-06-06 231916" src="https://github.com/user-attachments/assets/57aa6cda-453e-46c9-8467-82199d35307a" />
 
 ---
 
