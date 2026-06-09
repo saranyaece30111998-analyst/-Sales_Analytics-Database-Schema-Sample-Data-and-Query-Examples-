@@ -253,22 +253,22 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ### MULTI ROW SUBQUERIES
 
-8.	Find customers who have ordered any product in the 'Electronics' category.
+62.	Find customers who have ordered any product in the 'Electronics' category.
 - <img width="962" height="542" alt="Screenshot 2026-06-07 000706" src="https://github.com/user-attachments/assets/dbf47af1-8cf7-4262-b646-84c6db947c4b" />
 
-10.	Find products that were ordered by customers from Chennai.
+63.	Find products that were ordered by customers from Chennai.
  - <img width="837" height="492" alt="Screenshot 2026-06-07 000759" src="https://github.com/user-attachments/assets/aa66d4ee-0a72-4199-b14f-381a2abd69f1" />
 
-12.	Find salespersons who handled orders for customers from Bangalore.
+64.	Find salespersons who handled orders for customers from Bangalore.
  - <img width="815" height="537" alt="Screenshot 2026-06-07 000855" src="https://github.com/user-attachments/assets/3e08c54a-33d4-4645-884a-77914b4e80f7" />
 
-14.	Find products whose price is greater than ALL products in the Furniture category.
+65.	Find products whose price is greater than ALL products in the Furniture category.
  - <img width="1041" height="448" alt="Screenshot 2026-06-07 000942" src="https://github.com/user-attachments/assets/e051b8b2-88a9-419f-b751-c4667f97c010" />
 
-16.	Find products whose price is greater than ANY Electronics product.
+66.	Find products whose price is greater than ANY Electronics product.
  - <img width="887" height="577" alt="Screenshot 2026-06-07 001033" src="https://github.com/user-attachments/assets/c11f46e5-f2bc-4ae4-b2f3-7d8dce916eac" />
 
-18.	Find customers who purchased products costing more than 10000.
+67.	Find customers who purchased products costing more than 10000.
 - <img width="798" height="543" alt="Screenshot 2026-06-07 001109" src="https://github.com/user-attachments/assets/b62dcacd-ea36-40bd-b235-1d71131266e5" />
 
 
