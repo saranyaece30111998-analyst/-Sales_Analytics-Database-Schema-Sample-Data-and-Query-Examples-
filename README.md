@@ -201,7 +201,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 49.	Calculate the running total of sales amount by order date.
 - <img width="811" height="561" alt="Screenshot 2026-06-06 234537" src="https://github.com/user-attachments/assets/68c627db-c58e-4aad-9899-292cea1f7a54" />
 
-10.	Display the top 3 most expensive products using DENSE_RANK()
+** 50.	Display the top 3 most expensive products using DENSE_RANK()
+- <img width="782" height="468" alt="Screenshot 2026-06-06 234934" src="https://github.com/user-attachments/assets/52aa6f1d-be9b-4558-98d2-dbe4b4f7aebb" />
+
 
 
 
