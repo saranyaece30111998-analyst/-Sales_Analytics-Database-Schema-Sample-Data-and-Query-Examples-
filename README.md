@@ -226,7 +226,20 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ---
 
-###  Subqueries (Single, Multi, Correlated)
+###  Subqueries 
+ ### SINGLE ROW SUBQUERIES
+
+55.	Find customers who live in the same city as 'Arjun Kumar'.
+-<img width="732" height="485" alt="Screenshot 2026-06-06 235917" src="https://github.com/user-attachments/assets/fe34a243-3f66-494d-b249-b38289d6c49d" />
+    
+56.	Find products that are more expensive than the average product price.
+57.	Find products belonging to the same category as 'Laptop'.
+58.	Find customers who have placed more orders than the customer with CustomerID = 5.
+59.	Find products that are priced higher than the product with ProductID = 3.
+60.	Find customers who placed an order on the same date as OrderID = 1.
+61.	Find the salesperson whose target amount is higher than the average target.
+________________________________________
+
 
 
 ---
