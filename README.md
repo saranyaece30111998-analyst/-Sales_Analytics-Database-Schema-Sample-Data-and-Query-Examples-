@@ -184,9 +184,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="817" height="542" alt="Screenshot 2026-06-06 233846" src="https://github.com/user-attachments/assets/64cc464b-4189-45e8-a5c7-4f3195fbc59e" />
 ** 43.	Rank all products based on price from highest to lowest using a window function.
 - <img width="923" height="592" alt="Screenshot 2026-06-06 233936" src="https://github.com/user-attachments/assets/c80d44c8-422e-4d20-baa5-4f1d5b1f6400" />
+** 44.	Display each order with the total quantity ordered by that salesperson.
+- <img width="825" height="558" alt="Screenshot 2026-06-06 234039" src="https://github.com/user-attachments/assets/607cf25b-a893-4d88-8c26-80dd6183e5b6" />
 
-
-4.	Display each order with the total quantity ordered by that salesperson.
 5.	Rank salespersons based on the total sales amount they generated.
 6.	Show product price ranking within each category using PARTITION BY.
 7.	Display the previous order date for each customer using LAG() function.
