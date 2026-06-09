@@ -160,7 +160,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ** 36.Show total sales amount (Price × Quantity) for each order.
 - <img width="735" height="605" alt="Screenshot 2026-06-06 233120" src="https://github.com/user-attachments/assets/336097a1-a9a2-4e86-bb8b-29431fd0fb0f" />
 
-8. Find the top 5 customers by total purchase amount.
+** 37. Find the top 5 customers by total purchase amount.
+- <img width="670" height="492" alt="Screenshot 2026-06-06 233217" src="https://github.com/user-attachments/assets/b28f895d-e3ef-40ab-8dfb-32d24201e2d2" />
+
 9. Show each Salesperson’s region and the total sales value.
 10. Find the most sold product with total quantity.
 11. Show the earliest (minimum) and latest (maximum) order date.
