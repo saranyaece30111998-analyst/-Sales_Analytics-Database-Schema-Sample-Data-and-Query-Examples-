@@ -263,8 +263,10 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
  - <img width="815" height="537" alt="Screenshot 2026-06-07 000855" src="https://github.com/user-attachments/assets/3e08c54a-33d4-4645-884a-77914b4e80f7" />
 
 14.	Find products whose price is greater than ALL products in the Furniture category.
-15.	Find products whose price is greater than ANY Electronics product.
-16.	Find customers who purchased products costing more than 10000.
+ - <img width="1041" height="448" alt="Screenshot 2026-06-07 000942" src="https://github.com/user-attachments/assets/e051b8b2-88a9-419f-b751-c4667f97c010" />
+
+16.	Find products whose price is greater than ANY Electronics product.
+17.	Find customers who purchased products costing more than 10000.
 
 ________________________________________
 
