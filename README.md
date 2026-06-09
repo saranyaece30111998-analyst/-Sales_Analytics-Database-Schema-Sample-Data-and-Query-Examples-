@@ -260,9 +260,11 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
  - <img width="837" height="492" alt="Screenshot 2026-06-07 000759" src="https://github.com/user-attachments/assets/aa66d4ee-0a72-4199-b14f-381a2abd69f1" />
 
 12.	Find salespersons who handled orders for customers from Bangalore.
-13.	Find products whose price is greater than ALL products in the Furniture category.
-14.	Find products whose price is greater than ANY Electronics product.
-15.	Find customers who purchased products costing more than 10000.
+ - <img width="815" height="537" alt="Screenshot 2026-06-07 000855" src="https://github.com/user-attachments/assets/3e08c54a-33d4-4645-884a-77914b4e80f7" />
+
+14.	Find products whose price is greater than ALL products in the Furniture category.
+15.	Find products whose price is greater than ANY Electronics product.
+16.	Find customers who purchased products costing more than 10000.
 
 ________________________________________
 
