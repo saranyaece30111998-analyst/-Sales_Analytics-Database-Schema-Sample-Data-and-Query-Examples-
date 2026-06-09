@@ -239,14 +239,16 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 - <img width="642" height="553" alt="Screenshot 2026-06-07 000111" src="https://github.com/user-attachments/assets/a539468c-cc4e-412e-b13e-efeb96e1aa0d" />
 
 58.	Find customers who have placed more orders than the customer with CustomerID = 5.
-    <img width="933" height="545" alt="Screenshot 2026-06-07 000219" src="https://github.com/user-attachments/assets/e1c4fc02-1f95-47ee-93da-09f6ed14df19" />
+- <img width="933" height="545" alt="Screenshot 2026-06-07 000219" src="https://github.com/user-attachments/assets/e1c4fc02-1f95-47ee-93da-09f6ed14df19" />
 
 
-60.	Find products that are priced higher than the product with ProductID = 3.
+59.	Find products that are priced higher than the product with ProductID = 3.
+- <img width="892" height="455" alt="Screenshot 2026-06-07 000307" src="https://github.com/user-attachments/assets/6fd67c57-f884-446c-834b-1e796cad7dde" />
 
-61.	Find customers who placed an order on the same date as OrderID = 1.
+60.	Find customers who placed an order on the same date as OrderID = 1.
+- <img width="886" height="406" alt="Screenshot 2026-06-07 000424" src="https://github.com/user-attachments/assets/f3eaf2fc-f011-46d8-b37b-ec89fac3c9fa" />
 
-62.	Find the salesperson whose target amount is higher than the average target.
+61.	Find the salesperson whose target amount is higher than the average target.
 ________________________________________
 
 
