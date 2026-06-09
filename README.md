@@ -115,16 +115,18 @@ SELECT ProductName, Price, Price*1.1 AS PriceWithTax FROM Products;
 ```sql
 SELECT COUNT(*) AS TotalCustomers FROM Customers;
 ```
-22. Find the total number of customers in the Customers table.
-    <img width="842" height="282" alt="Screenshot 2026-06-06 231601" src="https://github.com/user-attachments/assets/d150516e-3496-4921-a8a5-1a93cbe2ffad" />
+**22. Find the total number of customers in the Customers table.
+ - <img width="842" height="282" alt="Screenshot 2026-06-06 231601" src="https://github.com/user-attachments/assets/d150516e-3496-4921-a8a5-1a93cbe2ffad" />
 
 ---
 
 ###  GROUP BY & HAVING
-23.Show the number of customers in each city.
--<img width="673" height="522" alt="Screenshot 2026-06-06 231629" src="https://github.com/user-attachments/assets/d3e56aa2-5bdf-4d01-95bd-276e20d69630" />
-24.Show the total number of customers in each gender group.
+** 23.Show the number of customers in each city.
+- <img width="673" height="522" alt="Screenshot 2026-06-06 231629" src="https://github.com/user-attachments/assets/d3e56aa2-5bdf-4d01-95bd-276e20d69630" />
+** 24.Show the total number of customers in each gender group.
 - <img width="771" height="297" alt="Screenshot 2026-06-06 231707" src="https://github.com/user-attachments/assets/3994d2df-b6c9-4b55-9047-bb49e53db845" />
+** 25.Display City and Customer Name grouped by city. 
+  -<img width="722" height="506" alt="Screenshot 2026-06-06 231741" src="https://github.com/user-attachments/assets/0a82cb96-4967-4bb3-b237-8cecc17df9f2" />
 
 ---
 
