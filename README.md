@@ -122,7 +122,9 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
 
 ###  GROUP BY & HAVING
 23.Show the number of customers in each city.
-<img width="673" height="522" alt="Screenshot 2026-06-06 231629" src="https://github.com/user-attachments/assets/d3e56aa2-5bdf-4d01-95bd-276e20d69630" />
+-<img width="673" height="522" alt="Screenshot 2026-06-06 231629" src="https://github.com/user-attachments/assets/d3e56aa2-5bdf-4d01-95bd-276e20d69630" />
+24.Show the total number of customers in each gender group.
+- <img width="771" height="297" alt="Screenshot 2026-06-06 231707" src="https://github.com/user-attachments/assets/3994d2df-b6c9-4b55-9047-bb49e53db845" />
 
 ---
 
