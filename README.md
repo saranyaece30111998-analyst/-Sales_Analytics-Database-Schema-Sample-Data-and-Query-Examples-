@@ -145,6 +145,8 @@ SELECT COUNT(*) AS TotalCustomers FROM Customers;
  - <img width="810" height="630" alt="Screenshot 2026-06-06 232206" src="https://github.com/user-attachments/assets/99d4c627-a56e-4034-ae31-018d603c5c80" />
 ** 31. Show all customers and their orders using LEFT JOIN.
 - <img width="832" height="632" alt="Screenshot 2026-06-06 232536" src="https://github.com/user-attachments/assets/054d0480-c6d6-4905-b66d-560a54c89bcc" />
+** 32.Show salesperson name and orders assigned to them (RIGHT JOIN).
+- <img width="892" height="612" alt="Screenshot 2026-06-06 232630" src="https://github.com/user-attachments/assets/454e3d03-4ced-4f7f-85fe-f9913ff9d959" />
 
 
 ---
